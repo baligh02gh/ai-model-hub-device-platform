@@ -1,0 +1,9 @@
+venv
+venv_old
+__pycache__
+uploaded_models
+test_model
+bad_model
+demo_model
+*.zip
+.env
